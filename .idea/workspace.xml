@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdb208d5-a0c0-4b49-9c00-aafbd74a261b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Lab4_Py.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_music_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_sqlite_library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_sqalchemy_library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_mongodb_library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_downloads.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_NumPy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_SymPy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_music_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_music_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_downloads.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_downloads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library.db" beforeDir="false" afterPath="$PROJECT_DIR$/library.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,29 +29,28 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2wMjOI1kgbELXzmx7KyEObtVZrG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1_music_script.executor": "Run",
-    "Python.2_json_library.executor": "Run",
-    "Python.2_sqlite_library.executor": "Run",
-    "Python.3_sqalchemy_library.executor": "Run",
-    "Python.4_mongodb_library.executor": "Run",
-    "Python.5_downloads.executor": "Run",
-    "Python.6_NumPy.executor": "Run",
-    "Python.7_SymPy.executor": "Run",
-    "Python.8_pandas.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1_music_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_json_library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_sqlite_library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_sqalchemy_library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_mongodb_library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_downloads.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6_NumPy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7_SymPy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8_pandas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.2_sqlite_library">
-    <configuration name="2_sqlite_library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.7_SymPy">
+    <configuration name="3_sqalchemy_library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lab4_Py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +63,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_sqlite_library.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_sqalchemy_library.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4_mongodb_library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab4_Py" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_mongodb_library.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,42 +160,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Lab4_Py" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_pandas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2_sqlite_library" />
-        <item itemvalue="Python.5_downloads" />
-        <item itemvalue="Python.6_NumPy" />
-        <item itemvalue="Python.8_pandas" />
         <item itemvalue="Python.7_SymPy" />
+        <item itemvalue="Python.6_NumPy" />
+        <item itemvalue="Python.5_downloads" />
+        <item itemvalue="Python.4_mongodb_library" />
+        <item itemvalue="Python.3_sqalchemy_library" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
       </set>
     </attachedChunks>
   </component>

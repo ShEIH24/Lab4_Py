@@ -109,9 +109,10 @@ class DownloaderApp:
                 self.urls[self.focused_entry].delete(0, tk.END)
                 self.urls[self.focused_entry].insert(0, clipboard_text)
                 return "break"  # Предотвращаем стандартную обработку Ctrl+V
+            return None
         except Exception as e:
             # Игнорируем ошибки буфера обмена
-            pass
+            return None
 
     def start_download(self):
         # Сбрасываем прогресс и останавливаем активные потоки
